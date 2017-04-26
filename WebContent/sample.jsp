@@ -1,0 +1,3 @@
+hsfgakJHSDFGkjhasgdjk
+
+<%=request.getAttribute("FNAME")%>
